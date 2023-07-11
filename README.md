@@ -1,4 +1,7 @@
-<h1><a href="https://rdeweb3.io/" target="blank">RdeWeb3</a></h1>
+<h1>CEO of RDE WEB3 | Carbon RDE | Fintech - RDE BANK | BlockChain RDE</h1>
+
+## RdeWeb3
+<h3><a href="https://rdeweb3.io/" target="blank">RdeWeb3</a></h3>
 
 ## A Startup do Transporte Rodoviário
 
